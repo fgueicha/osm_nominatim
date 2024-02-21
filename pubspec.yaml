@@ -2,8 +2,8 @@ name: osm_nominatim
 description: Plugin for flutter_map that uses the Overpass API and OSM API to query features within a point's radius
 version: 0.0.1
 
-repository: https://github.com/JaffaKetchup/flutter_map_query_osm_features
-issue_tracker: https://github.com/JaffaKetchup/flutter_map_query_osm_features/issues
+repository: https://github.com/fgueicha/osm_nominatim
+issue_tracker: https://github.com/fgueicha/osm_nominatim
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
